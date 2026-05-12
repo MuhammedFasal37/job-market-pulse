@@ -1,0 +1,4 @@
+.env
+data/raw_jobs.csv
+__pycache__/
+*.pyc
