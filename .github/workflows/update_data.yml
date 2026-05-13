@@ -43,6 +43,11 @@ jobs:
       # Same as pip install but on the robot's computer
       - name: Install dependencies
         run: pip install pandas requests python-dotenv groq streamlit plotly
+        # Create data and output folders if they don't exist
+      - name: Create required folders
+        run: |
+          mkdir -p data
+          mkdir -p output
 
       # STEP 4 - Create the .env file on the robot's computer
       # Remember .env is secret and not on GitHub
