@@ -20,7 +20,9 @@ from dotenv import load_dotenv
 
 # This line actually loads the .env file
 # Without this, Python can't see your API keys
-load_dotenv()
+# Find .env file relative to this script's location
+root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+load_dotenv(os.path.join(root_dir, '.env'))
 
 # --- LOAD OUR OWN CONFIG ---
 # We import our settings from config.py

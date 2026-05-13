@@ -58,6 +58,10 @@ jobs:
           echo "ADZUNA_APP_ID=${{ secrets.ADZUNA_APP_ID }}" >> .env
           echo "ADZUNA_APP_KEY=${{ secrets.ADZUNA_APP_KEY }}" >> .env
           echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}" >> .env
+      - name: Verify .env file created
+        run: |
+          echo "Checking .env file exists..."
+          cat .env | head -1
 
       # STEP 5 - Run our collector script
       # Fetches fresh job postings from Adzuna
