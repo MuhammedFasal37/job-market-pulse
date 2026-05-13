@@ -31,7 +31,7 @@ CLEAN_DATA_PATH = "data/clean_jobs.csv"
 # These are the skills we'll look for inside job descriptions
 SKILLS_TO_TRACK = [
     "python", "sql", "excel", "tableau", "power bi",
-    "r", "machine learning", "statistics", "pandas",
+    "r programming", "machine learning", "statistics", "pandas",
     "numpy", "matplotlib", "spark", "aws", "azure",
     "communication", "problem solving", "data visualization"
 ]
