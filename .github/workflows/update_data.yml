@@ -1,0 +1,87 @@
+# ================================================
+# update_data.yml - Daily auto-refresh robot
+# ================================================
+# This file tells GitHub Actions to automatically
+# run our data collection scripts every day
+# ================================================
+
+name: Daily Job Market Update
+
+# WHEN should this robot wake up and run?
+# 'schedule' means run on a timer
+# 'cron' is a special time format used worldwide for scheduling
+# '0 2 * * *' means: at 2:00 AM UTC every day
+# UTC 2:00 AM = 7:30 AM India time (IST is UTC+5:30)
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # This lets you also run it manually from GitHub
+  # Like a manual override button
+  workflow_dispatch:
+
+# WHAT should the robot do when it wakes up?
+jobs:
+  update-data:
+    # Which type of computer should run this?
+    # ubuntu-latest = a free Linux computer GitHub gives us
+    runs-on: ubuntu-latest
+
+    steps:
+      # STEP 1 - Download our code onto the robot's computer
+      # Just like we did git clone on our laptop
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # STEP 2 - Install Python on the robot's computer
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # STEP 3 - Install our libraries
+      # Same as pip install but on the robot's computer
+      - name: Install dependencies
+        run: pip install pandas requests python-dotenv groq streamlit plotly
+
+      # STEP 4 - Create the .env file on the robot's computer
+      # Remember .env is secret and not on GitHub
+      # So we recreate it here using GitHub Secrets
+      # (we'll set those up in a moment)
+      - name: Create .env file
+        run: |
+          echo "ADZUNA_APP_ID=${{ secrets.ADZUNA_APP_ID }}" >> .env
+          echo "ADZUNA_APP_KEY=${{ secrets.ADZUNA_APP_KEY }}" >> .env
+          echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}" >> .env
+
+      # STEP 5 - Run our collector script
+      # Fetches fresh job postings from Adzuna
+      - name: Collect fresh job data
+        run: python scripts/collector.py
+
+      # STEP 6 - Run our cleaner script
+      # Cleans the fresh data
+      - name: Clean the data
+        run: python scripts/cleaner.py
+
+      # STEP 7 - Run SQL analyzer
+      # Generates fresh insights
+      - name: Run SQL analysis
+        run: python scripts/analyzer.py
+
+      # STEP 8 - Generate fresh AI briefing
+      - name: Generate AI briefing
+        run: python scripts/ai_insights.py
+
+      # STEP 9 - Save everything back to GitHub
+      # The robot commits and pushes the fresh data
+      # So Streamlit picks it up automatically
+      - name: Commit and push fresh data
+        run: |
+          git config user.name "Job Market Bot"
+          git config user.email "bot@jobmarketpulse.com"
+          git add data/ output/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update: fresh job market data $(date +'%Y-%m-%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
