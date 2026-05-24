@@ -3,17 +3,23 @@ JOB MARKET PULSE - AI GENERATED BRIEFING
 
 **Market Briefing: Indian Job Market Insights (May 2026)**
 
-1. **MARKET OVERVIEW**: The Indian job market is showcasing a strong demand for data-related roles, with a total of 185 job postings analyzed in May 2026. The market is dominated by roles such as Data Analyst, Business Analyst, and BI Analyst, which together account for 74% of the total job postings. This trend highlights the growing importance of data-driven decision-making in Indian businesses.
+1. **MARKET OVERVIEW**
+The Indian job market presents a dynamic landscape, with 185 job postings analyzed in May 2026. The market is dominated by two key roles: BI Analysts and Business Analysts, which together account for 49% of the total job postings (47 + 43 = 90 out of 185). This suggests a strong demand for analytical and business acumen skills in the current job market.
 
-2. **SKILLS IN DEMAND**: Employers are seeking candidates with expertise in SQL (20 mentions), Excel (19 mentions), Power BI (16 mentions), Python (15 mentions), and Machine Learning (13 mentions). These skills are in high demand due to the increasing need for data analysis, visualization, and interpretation. Job seekers who possess these skills, particularly SQL and Excel, are likely to have a competitive edge in the market, with 20% and 10% of job postings requiring these skills, respectively.
+2. **SKILLS IN DEMAND**
+Employers in the Indian job market are seeking candidates with expertise in data analysis and visualization tools, as evidenced by the top in-demand skills: Power BI (14 mentions), SQL (10 mentions), and Excel (8 mentions). Additionally, communication (4 mentions) and Python (4 mentions) skills are also highly valued. This emphasis on data-driven skills highlights the importance of technical proficiency in the current job market.
 
-3. **HIRING HOTSPOTS**: Bangalore, Karnataka, is the leading city for job postings, accounting for 25% (47 out of 185) of the total job openings. Hyderabad, Telangana, and Mumbai, Maharashtra, follow closely, with 24 and 17 job postings, respectively. This concentration of job opportunities in these cities highlights the thriving tech and business ecosystems in these regions, making them attractive destinations for job seekers.
+3. **HIRING HOTSPOTS**
+The top hiring cities in India are Bangalore (22 job postings), Mumbai (11 job postings), and Hyderabad (11 job postings), which collectively account for 44% of the total job postings (22 + 11 + 11 = 44 out of 185). These cities are emerging as hubs for job opportunities, with Chennai and Pune also showing promise. This concentration of job postings in select cities may indicate a competitive job market, with candidates needing to be strategic in their job search.
 
-4. **TOP RECRUITERS**: Tata Consultancy Services is the top recruiter, with 8 job postings, while Luxoft India, LTM, and Arcana each have 3 job postings. These companies are likely to be major players in the Indian job market, and job seekers should be prepared to meet their requirements. Notably, these top recruiters are looking for candidates with expertise in data analysis, business analysis, and BI analysis, which are the most in-demand roles.
+4. **TOP RECRUITERS**
+Notable companies such as Tata Consultancy Services (4 job postings), Luxoft India (3 job postings), and Teamware Solutions (2 job postings) are actively hiring in the Indian job market. These companies are likely to be looking for skilled professionals to fill key roles, particularly in BI and business analysis. This information can help job seekers target specific companies and tailor their applications accordingly.
 
-5. **SALARY TRANSPARENCY**: The salary disclosure rate is relatively low, at 1.7%, indicating that most job postings do not provide salary information. This lack of transparency can make it challenging for job seekers to negotiate fair compensation. Candidates should be prepared to research market standards and negotiate salaries based on their skills and experience.
+5. **SALARY TRANSPARENCY**
+Only 3.3% of job postings disclose salary information, which may make it challenging for candidates to negotiate fair compensation or make informed decisions about job opportunities. This lack of transparency highlights the need for job seekers to research market standards and be prepared to discuss salary expectations during the hiring process.
 
-6. **RECOMMENDATIONS**: Based on this data, job seekers can take the following actionable steps:
-* **Develop SQL and Excel skills**: Invest in acquiring or improving these skills to increase their chances of getting hired.
-* **Target Bangalore and Hyderabad**: Consider relocating or focusing on job openings in these cities, which offer the highest number of job opportunities.
-* **Research company requirements**: Familiarize themselves with the job requirements and cultures of top recruiters like Tata Consultancy Services and Luxoft India to tailor their applications and prepare for interviews.
+6. **RECOMMENDATIONS**
+Based on this data, we recommend the following actionable tips for job seekers:
+* Develop expertise in data analysis tools such as Power BI, SQL, and Excel to increase their competitiveness in the job market.
+* Target job opportunities in cities like Bangalore, Mumbai, and Hyderabad, which are emerging as hiring hubs.
+* Research market standards and be prepared to discuss salary expectations during the hiring process, given the limited transparency around salary information in job postings.
