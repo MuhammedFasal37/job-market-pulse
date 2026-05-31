@@ -1,19 +1,25 @@
 JOB MARKET PULSE - AI GENERATED BRIEFING
 ==================================================
 
-**Market Briefing: Indian Job Market Insights (May 2026)**
+**Indian Job Market Briefing - May 2026**
 
-1. **MARKET OVERVIEW**: The Indian job market is witnessing a surge in demand for data-related roles, with a total of 185 job postings analyzed. The market is characterized by a strong emphasis on data analysis and science, with top companies driving the hiring trends. This presents a promising landscape for job seekers with in-demand skills.
+1. **MARKET OVERVIEW**
+The Indian job market is showcasing a strong demand for skilled professionals, with a total of 185 job postings analyzed in May 2026. The market is dominated by roles in data analysis and business intelligence, with 46 postings for Business Analysts and 46 for BI Analysts. This trend indicates a growing need for data-driven decision-making in Indian businesses.
 
-2. **SKILLS IN DEMAND**: Employers are primarily seeking candidates with skills in SQL (19 mentions), Power BI (18 mentions), Python (17 mentions), Excel (15 mentions), and Machine Learning (13 mentions). The high demand for these skills underscores the importance of data-driven decision-making in Indian businesses. Job seekers who can demonstrate proficiency in these areas will have a competitive edge in the market.
+2. **SKILLS IN DEMAND**
+Employers are primarily seeking candidates with expertise in SQL (17 mentions), Python (17 mentions), Power BI (16 mentions), Excel (14 mentions), and Machine Learning (11 mentions). The high demand for these skills underscores the importance of data analysis, programming, and business intelligence in the current job market. Job seekers who possess these skills are likely to have a competitive edge in their job search.
 
-3. **HIRING HOTSPOTS**: Bangalore, Karnataka, is the leading hiring city, accounting for 51 job postings, followed by Hyderabad, Telangana (26 postings), Mumbai, Maharashtra (14 postings), Chennai, Tamil Nadu (10 postings), and Noida, Ghaziabad (8 postings). These cities are likely to offer the most job opportunities, and candidates would be well-advised to focus their search in these locations.
+3. **HIRING HOTSPOTS**
+The top hiring cities in India are Bangalore (50 job postings), Hyderabad (20 job postings), Pune (12 job postings), Noida (6 job postings), and Mumbai (6 job postings). These cities are emerging as hubs for job opportunities, with Bangalore leading the way. This trend suggests that job seekers may need to consider relocating to these cities to access better job prospects.
 
-4. **TOP RECRUITERS**: Notable companies driving the hiring trends include Tata Consultancy Services (8 postings), Luxoft India (3 postings), Intellect Design Arena Ltd (3 postings), Arcana (3 postings), and Simelabs (2 postings). These companies are actively seeking talent, and job seekers should research these organizations to explore potential opportunities.
+4. **TOP RECRUITERS**
+The top recruiting companies in India are Weekday AI (4 job postings), EXL (4 job postings), Virtusa (3 job postings), Aqilea (3 job postings), and an unnamed company (3 job postings). These companies are actively hiring, and job seekers can explore opportunities with these organizations. It is essential for candidates to research these companies and tailor their applications to match the required skills and job roles.
 
-5. **SALARY TRANSPARENCY**: Only 1.7% of job postings disclose salary information, indicating a lack of transparency in this area. Candidates should be prepared to negotiate salary during the hiring process and consider researching market standards to ensure fair compensation.
+5. **SALARY TRANSPARENCY**
+Only 26.4% of job postings disclose salary information, leaving a significant gap in transparency. This lack of transparency can make it challenging for job seekers to negotiate fair compensation. Candidates should be prepared to discuss their salary expectations during the hiring process and research industry standards to ensure they are fairly compensated.
 
-6. **RECOMMENDATIONS**: Based on this data, job seekers can take the following actionable steps:
-* **Develop in-demand skills**: Focus on acquiring skills in SQL, Power BI, Python, Excel, and Machine Learning to increase competitiveness in the job market.
-* **Target key cities**: Prioritize job searches in Bangalore, Hyderabad, Mumbai, Chennai, and Noida to maximize opportunities.
-* **Research top recruiters**: Explore job openings at companies like Tata Consultancy Services, Luxoft India, and Intellect Design Arena Ltd, and tailor applications to match their requirements.
+6. **RECOMMENDATIONS**
+Based on this data, we recommend the following for job seekers:
+* **Develop in-demand skills**: Focus on acquiring skills like SQL, Python, Power BI, and Excel to increase your chances of getting hired.
+* **Target hiring hotspots**: Consider relocating to cities like Bangalore, Hyderabad, or Pune to access more job opportunities.
+* **Research top recruiters**: Look into companies like Weekday AI, EXL, and Virtusa, and tailor your applications to match their job requirements and desired skills.
