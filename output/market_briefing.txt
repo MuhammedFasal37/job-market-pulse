@@ -3,17 +3,17 @@ JOB MARKET PULSE - AI GENERATED BRIEFING
 
 **Market Briefing: Indian Job Market Insights (May 2026)**
 
-1. **MARKET OVERVIEW**: The Indian job market saw a total of 185 job postings analyzed in May 2026, with a strong focus on data-related roles. This indicates a growing demand for professionals with expertise in data analysis, business intelligence, and related fields. With top companies like Tata Consultancy Services and Luxoft India leading the hiring charge, the market presents opportunities for skilled candidates.
+1. **MARKET OVERVIEW**: The Indian job market witnessed a total of 185 job postings in May 2026, with a strong demand for analytics and data science roles. The top roles in demand include Data Analyst, Business Analyst, and BI Analyst, accounting for 49, 49, and 42 postings respectively. This trend suggests a growing need for data-driven decision-making in Indian businesses.
 
-2. **SKILLS IN DEMAND**: Employers in the Indian job market are currently seeking professionals with skills in SQL (19 mentions), Python (15 mentions), Power BI (14 mentions), Machine Learning (11 mentions), and Excel (9 mentions). The high demand for these skills underscores the importance of data analysis and business intelligence in driving business decisions. Candidates who can demonstrate proficiency in these areas will be highly competitive in the job market.
+2. **SKILLS IN DEMAND**: Employers are seeking candidates with expertise in SQL (19 mentions), Python (18 mentions), Power BI (13 mentions), Excel (10 mentions), and Machine Learning (10 mentions). The high demand for these skills indicates that companies are investing in data analysis, business intelligence, and automation, making it essential for job seekers to upskill in these areas to remain competitive.
 
-3. **HIRING HOTSPOTS**: Bangalore, Karnataka, emerges as the top hiring city with 53 job postings, followed by Hyderabad, Telangana (23 postings), and Mumbai, Maharashtra (12 postings). This suggests that these cities are hubs for data-driven industries, offering a high concentration of job opportunities for candidates with the right skills. Job seekers would do well to consider these locations when searching for employment.
+3. **HIRING HOTSPOTS**: Bangalore, Karnataka leads the pack with 53 job postings, followed by Hyderabad, Telangana (22 postings), and Mumbai, Maharashtra (12 postings). This concentration of job opportunities in these cities suggests that they are emerging as hubs for data-driven industries, and job seekers may find it beneficial to consider relocating to these areas for better career prospects.
 
-4. **TOP RECRUITERS**: Notable companies like Tata Consultancy Services and Luxoft India are leading the hiring efforts, with 5 job postings each. Deloitte, Arcana, and Virtusa are also actively recruiting, with 3, 3, and 2 postings, respectively. This indicates that both IT services and consulting companies are driving the demand for data professionals, creating opportunities for candidates to join reputable organizations.
+4. **TOP RECRUITERS**: Notable companies like Tata Consultancy Services (7 postings), Luxoft India (5 postings), and Deloitte (3 postings) are actively hiring in the Indian job market. These companies are likely to be looking for skilled professionals to fill critical positions, and job seekers should research these companies to understand their hiring patterns and requirements.
 
-5. **SALARY TRANSPARENCY**: With a salary disclosure rate of only 1.7%, the Indian job market presents a challenge for candidates seeking transparent compensation information. This low disclosure rate suggests that job seekers should be prepared to negotiate salary or seek alternative sources of information to determine fair market rates for their roles.
+5. **SALARY TRANSPARENCY**: Only 2.2% of job postings disclosed salary information, indicating a lack of transparency in the Indian job market. This makes it challenging for job seekers to negotiate fair compensation or make informed decisions about job opportunities. Candidates should be prepared to ask about salary ranges during the hiring process and research industry standards to ensure they are being fairly compensated.
 
-6. **RECOMMENDATIONS**: Based on this data, job seekers can take the following actionable steps:
-* **Develop skills in SQL, Python, and Power BI** to increase their competitiveness in the job market.
-* **Target companies like Tata Consultancy Services, Luxoft India, and Deloitte**, which are actively hiring data professionals.
-* **Consider relocating to cities like Bangalore, Hyderabad, or Mumbai**, which offer a high concentration of job opportunities in data-related fields.
+6. **RECOMMENDATIONS**: Based on this data, we recommend the following actionable tips for job seekers:
+* **Develop skills in SQL, Python, and Power BI** to increase chances of getting hired in in-demand roles.
+* **Consider relocating to Bangalore, Hyderabad, or Mumbai** to access a higher concentration of job opportunities in the data science and analytics sector.
+* **Research company-specific hiring patterns and salary ranges** to negotiate fair compensation and make informed decisions about job offers, and be prepared to ask about salary ranges during the hiring process.
