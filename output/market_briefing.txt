@@ -4,22 +4,22 @@ JOB MARKET PULSE - AI GENERATED BRIEFING
 **Market Briefing: Indian Job Market Insights (May 2026)**
 
 1. **MARKET OVERVIEW**
-The Indian job market is witnessing a surge in demand for data-related roles, with a total of 185 job postings analyzed in May 2026. The market is led by key cities and prominent companies, with a focus on specific skills that are driving hiring decisions. As the job market continues to evolve, understanding these trends is crucial for both employers and job seekers.
+The Indian job market is witnessing a surge in demand for data-related roles, with a total of 185 job postings analyzed in May 2026. The top roles in demand are Data Analyst, BI Analyst, and Business Analyst, accounting for 48, 48, and 45 job postings, respectively. This trend indicates a growing need for professionals with expertise in data analysis and business intelligence.
 
 2. **SKILLS IN DEMAND**
-Employers in the Indian job market are currently seeking candidates with expertise in Power BI (20 mentions), SQL (12 mentions), Excel (9 mentions), data visualization (6 mentions), and machine learning (6 mentions). The high demand for Power BI and SQL indicates a strong need for data analysis and management skills, while the emphasis on data visualization and machine learning highlights the growing importance of presenting complex data insights and leveraging artificial intelligence.
+Employers are primarily seeking candidates with skills in Power BI (19 mentions), SQL (13 mentions), Excel (9 mentions), data visualization (6 mentions), and Python (5 mentions). The high demand for Power BI and SQL skills suggests that companies are looking to leverage data analytics and business intelligence to drive decision-making. Job seekers with these skills are likely to have a competitive edge in the market.
 
 3. **HIRING HOTSPOTS**
-The top hiring cities in India are Bangalore (54 job postings), Hyderabad (25 job postings), Mumbai (18 job postings), Pune (15 job postings), and Chennai (12 job postings). Bangalore's dominant position, with 29% of total job postings, underscores its status as a hub for data-driven industries. Job seekers would do well to focus on these cities, which offer a higher concentration of job opportunities and a thriving professional network.
+Bangalore, Karnataka, leads the pack as the top hiring city, with 54 job postings, followed by Hyderabad, Telangana, with 25 job postings. Mumbai, Maharashtra, and Pune, Maharashtra, also feature in the top 5, with 19 and 15 job postings, respectively. This concentration of job openings in these cities indicates that they are hubs for data-driven industries, offering opportunities for professionals to grow and develop their careers.
 
 4. **TOP RECRUITERS**
-The top recruiting companies in the Indian job market are Capco (19 job postings), Standard Chartered Bank (10 job postings), Deutsche Bank (8 job postings), ABB (8 job postings), and eBay (7 job postings). These companies are actively seeking talent, with Capco alone accounting for 10% of total job postings. Job seekers should research these companies and their hiring patterns to increase their chances of securing a role.
+Capco is the leading recruiter, with 20 job postings, followed by Standard Chartered Bank, Deutsche Bank, ABB, and Novartis, with 10, 8, 8, and 7 job postings, respectively. These companies are actively seeking talent to fill data-related roles, and job seekers should be prepared to demonstrate their skills and experience to secure opportunities with these prominent employers.
 
 5. **SALARY TRANSPARENCY**
-Only 4.3% of job postings disclose salary information, indicating a lack of transparency in the market. This limited visibility can make it challenging for job seekers to negotiate fair compensation or make informed decisions about job offers. Candidates should be prepared to ask about salary ranges during the hiring process and prioritize companies that demonstrate transparency in this regard.
+Only 4.9% of job postings disclose salary information, leaving a significant gap in transparency. This lack of transparency can make it challenging for job seekers to negotiate fair compensation. Candidates should be prepared to research market rates and be proactive in discussing salary expectations during the hiring process.
 
 6. **RECOMMENDATIONS**
-Based on this data, job seekers can take the following actionable steps:
-* **Develop skills in Power BI and SQL** to increase their marketability and appeal to potential employers.
-* **Target job opportunities in Bangalore and Hyderabad**, which offer the highest concentration of job postings and a thriving professional network.
-* **Research and network with top recruiting companies**, such as Capco and Standard Chartered Bank, to stay informed about job openings and increase their chances of securing a role.
+Based on this data, we recommend the following actionable tips for job seekers:
+* **Develop skills in Power BI and SQL** to increase your chances of getting noticed by top recruiters.
+* **Target job openings in Bangalore, Hyderabad, and Mumbai**, as these cities offer the most opportunities for data professionals.
+* **Research market rates and be prepared to negotiate salary**, as the lack of transparency in salary disclosure can put candidates at a disadvantage. By following these tips, job seekers can improve their prospects in the competitive Indian job market.
