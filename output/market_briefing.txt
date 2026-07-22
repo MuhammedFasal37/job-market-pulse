@@ -3,17 +3,23 @@ JOB MARKET PULSE - AI GENERATED BRIEFING
 
 **Market Briefing: Indian Job Market Insights (May 2026)**
 
-1. **MARKET OVERVIEW**: The Indian job market has shown a notable trend in May 2026, with 185 job postings analyzed. The data reveals a high demand for data-related roles, with Business Analyst, BI Analyst, and Data Analyst positions accounting for a significant portion of the job postings. This suggests a growing need for data-driven decision-making in Indian companies.
+1. **MARKET OVERVIEW**
+The Indian job market analyzed 185 job postings in May 2026, providing valuable insights into the current trends and demands. The data reveals a competitive landscape with a range of skills and roles in high demand. With a diverse set of hiring companies and locations, job seekers must be strategic in their search to stand out in this market.
 
-2. **SKILLS IN DEMAND**: Employers are primarily seeking candidates with skills in Excel (20%), Power BI (20%), and SQL (19%), indicating a strong emphasis on data analysis and visualization. The presence of Python (10%) and Data Visualization (9%) in the top 5 in-demand skills highlights the increasing importance of advanced data handling and presentation capabilities. This matters because job seekers who possess these skills are more likely to stand out in the job market.
+2. **SKILLS IN DEMAND**
+Employers are primarily seeking candidates with expertise in Excel (20 mentions), Power BI (20 mentions), and SQL (19 mentions), indicating a strong need for data analysis and business intelligence skills. Additionally, Python (10 mentions) and Machine Learning (9 mentions) are also in high demand, reflecting the growing importance of advanced data science capabilities. Job seekers who can demonstrate proficiency in these skills will have a significant competitive advantage.
 
-3. **HIRING HOTSPOTS**: Bangalore, Karnataka, leads the way as the top hiring city, accounting for 44 job postings (23.8% of the total). Hyderabad, Telangana, and Mumbai, Maharashtra, follow closely, with 16 and 13 job postings, respectively. This indicates that these cities are hubs for data-driven industries, offering numerous opportunities for job seekers with relevant skills.
+3. **HIRING HOTSPOTS**
+Bangalore, Karnataka leads the way as the top hiring city, accounting for 43 job postings (23% of the total), followed by Hyderabad, Telangana with 18 postings (10%). Mumbai, Maharashtra, and Pune, Maharashtra also feature prominently, with 12 and 10 postings, respectively. These cities are likely to offer the most opportunities for job seekers, particularly those in the data analysis and business intelligence space.
 
-4. **TOP RECRUITERS**: UpGrad, Weekday AI, and Accenture are among the top hiring companies, each with 3 job postings. Virtusa also features prominently, with 2 job postings. The presence of these companies suggests a strong demand for skilled professionals in the data analysis and technology sectors.
+4. **TOP RECRUITERS**
+UpGrad, Weekday AI, and Accenture are among the top hiring companies, each with 3 job postings. Virtusa also features in the top 5 with 2 postings. The presence of these companies suggests a strong demand for skilled professionals in the tech and data science sectors. Notably, the data also indicates that some companies (represented by NaN) are hiring anonymously, highlighting the need for job seekers to be proactive and network extensively.
 
-5. **SALARY TRANSPARENCY**: The salary disclosure rate is relatively low, at 18.8%, meaning that only about 1 in 5 job postings provide information about the salary range. This lack of transparency can make it challenging for candidates to negotiate salaries or make informed decisions about job opportunities. Candidates should be prepared to ask about salary ranges during the hiring process.
+5. **SALARY TRANSPARENCY**
+Only 19.5% of job postings disclose salary information, leaving a significant proportion of job seekers without clear expectations about compensation. This lack of transparency can make it challenging for candidates to negotiate fair salaries and plan their careers effectively. Job seekers should be prepared to ask about salary ranges during the hiring process and research market standards to ensure they are fairly remunerated.
 
-6. **RECOMMENDATIONS**: Based on this data, job seekers can take the following actionable steps:
-* **Develop data analysis skills**: Focus on acquiring or enhancing skills in Excel, Power BI, and SQL to increase your chances of getting hired.
-* **Target key cities**: Consider relocating to or focusing on job opportunities in Bangalore, Hyderabad, or Mumbai, which offer a higher concentration of job postings.
-* **Research company salaries**: When applying to companies like UpGrad, Weekday AI, or Accenture, research their typical salary ranges to ensure you are prepared for salary negotiations and can make informed decisions about job offers.
+6. **RECOMMENDATIONS**
+Based on this data, we recommend the following actionable tips for job seekers:
+* **Develop Excel, Power BI, and SQL skills** to increase their chances of being shortlisted for data analysis and business intelligence roles.
+* **Target job openings in Bangalore, Hyderabad, and Mumbai** to capitalize on the high demand for skilled professionals in these cities.
+* **Network extensively and research company profiles** to uncover anonymous job postings and stay informed about market trends and salary standards, ultimately enhancing their career prospects in the Indian job market.
