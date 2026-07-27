@@ -4,22 +4,22 @@ JOB MARKET PULSE - AI GENERATED BRIEFING
 **Market Briefing: Indian Job Market Insights (May 2026)**
 
 1. **MARKET OVERVIEW**
-The Indian job market is showing a strong demand for analytics and data-related roles, with a total of 185 job postings analyzed in May 2026. The top roles in demand are BI Analyst, Business Analyst, and Data Analyst, accounting for over 70% of the total job postings. This trend indicates a growing need for professionals who can drive business decisions with data-driven insights.
+The Indian job market presents a dynamic landscape, with 185 job postings analyzed in May 2026. The data reveals a strong demand for analytics and data science roles, with key skills and cities emerging as focal points for hiring. This overview provides insights into the current market trends, highlighting opportunities for job seekers and areas of focus for employers.
 
 2. **SKILLS IN DEMAND**
-Employers are looking for candidates with expertise in Power BI, SQL, Excel, Python, and data visualization, with these skills accounting for the top 5 in-demand skills in the market. Power BI and SQL are the most sought-after skills, with 19 and 18 job postings respectively, highlighting the importance of data analysis and business intelligence in the current job market. Candidates who possess these skills are likely to have a competitive edge in the job market.
+Employers in the Indian job market are primarily seeking candidates with expertise in **Power BI (20)**, **SQL (18)**, **Excel (12)**, **Python (11)**, and **Data Visualization (10)**. The high demand for these skills underscores the importance of data analysis and interpretation in current business operations. Job seekers who can demonstrate proficiency in these areas will have a competitive edge in the market.
 
 3. **HIRING HOTSPOTS**
-The top 5 hiring cities in India are Bangalore, Hyderabad, Pune, Mumbai, and Chennai, with Bangalore leading the pack with 45 job postings. These cities are hubs for major industries such as IT, pharma, and finance, and are likely to continue driving job growth in the analytics and data science sectors. Job seekers who are open to relocating to these cities may have a higher chance of landing a job in their desired field.
+The top hiring cities in India are **Bangalore (45)**, **Hyderabad (25)**, **Mumbai (12)**, **Pune (11)**, and **Chennai (8)**, indicating a strong presence of industries and companies in these regions. Bangalore's significant lead in job postings suggests it is a hub for employment opportunities, particularly in the tech and analytics sectors. Job seekers may find it advantageous to focus on these cities when exploring career options.
 
 4. **TOP RECRUITERS**
-The top 5 hiring companies in India are Accenture, Novartis, MSD, ABB, and Pfizer, with Accenture leading the list with 10 job postings. These companies are major players in their respective industries and are investing heavily in analytics and data science capabilities. Job seekers who are interested in working with these companies should tailor their resumes and cover letters to highlight their relevant skills and experience.
+Notable companies actively hiring in the Indian market include **Accenture (10)**, **Novartis (6)**, **MSD (6)**, **ABB (5)**, and **Pfizer (4)**. These companies are leaders in their respective industries and are investing in talent acquisition, indicating growth and expansion plans. Job seekers interested in working with multinational corporations or in the pharma and tech sectors should closely monitor these companies' job postings.
 
 5. **SALARY TRANSPARENCY**
-Only 20.4% of job postings disclose salary information, leaving a significant gap in transparency. This lack of transparency can make it challenging for job seekers to negotiate fair salaries and plan their careers effectively. Candidates should be prepared to research salary ranges for their desired roles and industries to ensure they are being fairly compensated.
+Only **20.1%** of job postings disclose salary information, leaving a significant gap in transparency. This lack of transparency can make it challenging for job seekers to negotiate fair compensation or understand the market standards for their roles. Candidates should be prepared to research salary ranges and be proactive in discussing compensation during the hiring process.
 
 6. **RECOMMENDATIONS**
-Based on this data, we recommend the following for job seekers:
-* **Develop skills in Power BI and SQL** to increase your chances of landing a job in the analytics and data science sector.
-* **Consider relocating to hiring hotspots** like Bangalore, Hyderabad, and Pune to access more job opportunities.
-* **Research salary ranges** for your desired role and industry to ensure you are being fairly compensated, as salary transparency is limited in the current job market.
+For job seekers looking to leverage the current market trends:
+- **Develop skills in Power BI and SQL** to capitalize on the high demand for data analysis capabilities.
+- **Target job openings in Bangalore and Hyderabad**, as these cities offer the most employment opportunities.
+- **Research company-specific salary ranges** and be prepared to negotiate based on market standards to ensure fair compensation, given the low salary disclosure rate among job postings.
